@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using UTS-DRWA.Data;
-using UTS-DRWA.Models;
+using UtsDrwa.Data;
+using UtsDrwa.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

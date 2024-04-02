@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\RESTAPI\\uts-drwa\\UTS-DRWA.csproj",
-      "projectName": "UTS-DRWA",
-      "projectPath": "D:\\GitHub\\RESTAPI\\uts-drwa\\UTS-DRWA.csproj",
+      "projectUniqueName": "D:\\GitHub\\RESTAPI\\UtsDrwa\\UtsDrwa.csproj",
+      "projectName": "UtsDrwa",
+      "projectPath": "D:\\GitHub\\RESTAPI\\UtsDrwa\\UtsDrwa.csproj",
       "packagesPath": "C:\\Users\\hp394\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\RESTAPI\\uts-drwa\\obj\\",
+      "outputPath": "D:\\GitHub\\RESTAPI\\UtsDrwa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp394\\AppData\\Roaming\\NuGet\\NuGet.Config"

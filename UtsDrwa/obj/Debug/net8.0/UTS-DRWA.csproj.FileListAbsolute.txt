@@ -33,3 +33,13 @@ D:\GitHub\RESTAPI\uts-drwa\obj\Debug\net8.0\refint\UTS-DRWA.dll
 D:\GitHub\RESTAPI\uts-drwa\obj\Debug\net8.0\UTS-DRWA.pdb
 D:\GitHub\RESTAPI\uts-drwa\obj\Debug\net8.0\UTS-DRWA.genruntimeconfig.cache
 D:\GitHub\RESTAPI\uts-drwa\obj\Debug\net8.0\ref\UTS-DRWA.dll
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.csproj.AssemblyReference.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.AssemblyInfoInputs.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.AssemblyInfo.cs
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.csproj.CoreCompileInputs.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.dll
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\refint\UTS-DRWA.dll
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UTS-DRWA.pdb

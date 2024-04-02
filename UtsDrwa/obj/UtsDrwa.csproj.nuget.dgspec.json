@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\RESTAPI\\UtsDrwa\\UTS-DRWA.csproj": {}
+    "D:\\GitHub\\RESTAPI\\UtsDrwa\\UtsDrwa.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\RESTAPI\\UtsDrwa\\UTS-DRWA.csproj": {
+    "D:\\GitHub\\RESTAPI\\UtsDrwa\\UtsDrwa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\RESTAPI\\UtsDrwa\\UTS-DRWA.csproj",
-        "projectName": "UTS-DRWA",
-        "projectPath": "D:\\GitHub\\RESTAPI\\UtsDrwa\\UTS-DRWA.csproj",
+        "projectUniqueName": "D:\\GitHub\\RESTAPI\\UtsDrwa\\UtsDrwa.csproj",
+        "projectName": "UtsDrwa",
+        "projectPath": "D:\\GitHub\\RESTAPI\\UtsDrwa\\UtsDrwa.csproj",
         "packagesPath": "C:\\Users\\hp394\\.nuget\\packages\\",
         "outputPath": "D:\\GitHub\\RESTAPI\\UtsDrwa\\obj\\",
         "projectStyle": "PackageReference",

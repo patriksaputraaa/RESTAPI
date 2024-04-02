@@ -1,0 +1,7 @@
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.csproj.AssemblyReference.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.AssemblyInfoInputs.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.AssemblyInfo.cs
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.csproj.CoreCompileInputs.cache
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\RESTAPI\UtsDrwa\obj\Debug\net8.0\UtsDrwa.MvcApplicationPartsAssemblyInfo.cache

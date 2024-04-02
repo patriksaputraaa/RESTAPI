@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using UTS-DRWA.Models;
+using UtsDrwa.Models;
 
-namespace UTS-DRWA.Data;
+namespace UtsDrwa.Data;
 
 public class ApplicationDbContext: DbContext{
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options):base(options){
