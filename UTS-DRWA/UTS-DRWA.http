@@ -1,0 +1,6 @@
+@UTS_DRWA_HostAddress = http://localhost:5150
+
+GET {{UTS_DRWA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
